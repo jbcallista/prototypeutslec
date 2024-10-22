@@ -33,4 +33,3 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </select><br>
     <input type="submit" value="Register">
 </form>
-ALYAAZZAHRA
